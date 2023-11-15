@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+    color: white;
+}
+
+div{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    border: "2px black";
+    width: 500px;
+    height: 500px;
+}
+
+input{
+    width: 100px;
+    height: 100px;
+}

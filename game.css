@@ -8,13 +8,19 @@ div{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 25px;
 }
 
 table{
-    border: "2px black";
+    color: white;
+    border: 2px black;
     width: 500px;
     height: 500px;
 }
+
+/* td{
+    background-color: white;
+} */
 
 input{
     width: 100px;
